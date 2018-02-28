@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>HeartSuit</name>
+			<type>2</type>
+			<location>C:/Users/MorrisonAn/Desktop/workspace/HeartSuit</location>
+		</link>
+	</linkedResources>
 </projectDescription>
